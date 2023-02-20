@@ -1,4 +1,4 @@
-# FSED-Clients-Preview!
+# FSED-Clients
 
 This app is my first commercial app and is currently published on the App Store as an unlisted app.
 
